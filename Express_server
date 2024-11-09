@@ -1,0 +1,6 @@
+mkdir blog-admin-dashboard
+cd blog-admin-dashboard
+mkdir backend
+cd backend
+npm init -y
+npm install express body-parser mysql2 sequelize dotenv cors
